@@ -34,7 +34,7 @@ The personal shopper faces challenges in managing and analyzing the dataset. Key
 ## Dependencies
 
 - Availability of accurate and up-to-date transaction data.
-- Collaboration with clients to validate and refine item categories.
+- Collaboration with client to validate and refine item categories.
 
 
 
