@@ -1,8 +1,8 @@
 CREATE TABLE [Transactions] ([Transaction_ID] VARCHAR(20),[Date] VARCHAR(10),[Time] VARCHAR(10),[Store_Name] VARCHAR(40),[Amount_Paid] REAL,[Payment_Status] VARCHAR(10),[Currency] VARCHAR(10),[Item_Bought] VARCHAR(1640),[Quantity] TINYINT);
 INSERT INTO [Transactions] ([Transaction_ID],[Date],[Time],[Store_Name],[Amount_Paid],[Payment_Status],[Currency],[Item_Bought],[Quantity]) VALUES 
  ('O2AW472437S4164403','06/01/2020','09:02:22','Dorothy Perkins','19.95','Completed','GBP','Wide Fit Tan ''Daria'' Court Shoes','1'), 
- ('O4RB76527TH5664147','09/01/2020','10:07:29','Dorothy Perkins','10','Completed','GBP','Daria Tan Court Shoes','1'), 
- ('O1U471976WF7676304','11/01/2020','13:19:56','NEW LOOK RETAILERS LIMITED','29.97','Completed','GBP','','1'), 
+ ('O4RB76527TH5664147','09/01/2020','10:07:29','Dorothy Perkins','10','Completed','GBP','Daria Tan Court Shoes','1'),
+ ('O1U471976WF7676304','11/01/2020','13:19:56','NEW LOOK RETAILERS LIMITED','29.97','Completed','GBP','','1'),
  ('O4JW40587E07945418','21/08/2020','02:34:59','Topshop','9','Completed','GBP','FREYA Yellow Court Heels','1'), 
  ('O5T494099R59776514','22/09/2020','19:41:23','ASOS.COM Ltd','28','Completed','GBP','ASOS DESIGN Curve soft denim relaxed playsuit in black','1'), 
  ('O2M321959CH648853W','03/10/2020','01:42:40','ASOS.COM Ltd','48.3','Completed','GBP','ASOS DESIGN Nadiya embellished barely there heeled sandals in rose gold','1'), 
