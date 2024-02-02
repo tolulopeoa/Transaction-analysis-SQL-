@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on optimizing personal shopping transactions by analyzing a comprehensive dataset containing diverse shopping transactions conducted by a personal shopper on behalf of clients. The dataset includes details such as store names, payment status, item categories, and amounts paid. The objective is to enhance the shopping experience and satisfaction for clients through strategic insights and efficient management of transactions.
+This project focuses on optimizing personal shopping transactions by analyzing a comprehensive dataset containing diverse shopping transactions conducted by a personal shopper on behalf of clients. The dataset includes details such as store names, payment status, item categories, and amounts paid from 2019 to 2024. The objective is to enhance the shopping experience and satisfaction for clients through strategic insights and efficient management of transactions while ensuring privacy and confidentiality of client data.
 
 ## Business Problem
 
@@ -35,5 +35,6 @@ The personal shopper faces challenges in managing and analyzing the dataset. Key
 
 - Availability of accurate and up-to-date transaction data.
 - Collaboration with clients to validate and refine item categories.
+
 
 
